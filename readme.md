@@ -36,4 +36,5 @@ Any other useful feature will be respected.
 Please note that the specific deadline for this assignment will be provided in the email. Kindly ensure that you complete the assignment within the timeframe stated.
 
 ### Demo
-Please attach a demo video or a live project link here. (Update this section when you submit your assignment)
+demo skills test results (Dwi krisnandi)
+Link : https://drive.google.com/file/d/1B05T0WzxueCWNki-rKlKqA5udtyNQL8L/view?usp=drive_link
